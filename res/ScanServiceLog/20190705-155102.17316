@@ -1,0 +1,14 @@
+Log file created at: 2019/07/05 15:51:02
+Running on machine: DESKTOP-DIRKOH1
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0705 15:51:02.329685 16940 scanservice.cpp:51] ScanService::ScanService constuct
+I0705 15:51:02.345335 16940 scanservice.cpp:95] ScanService::ScanService resetConfig
+I0705 15:51:02.345335 16940 scanservice.cpp:122] video memory create ret=1
+I0705 15:51:02.345335 16940 scanservice.cpp:122] video memory create ret=1
+I0705 15:51:02.345335 16940 scanservice.cpp:122] video memory create ret=1
+I0705 15:51:02.345335 16940 scanservice.cpp:122] video memory create ret=1
+I0705 15:51:02.548415 16940 scanservice.cpp:455] ScanService::showHidePrimeVideo show_ir_device=0
+I0705 15:51:02.548415 16940 app.cpp:773] currentBrightness stripe_scan_type=0
+I0705 15:51:02.548415 16940 app.cpp:969] deling 913 10.7
+I0705 15:51:02.548415 16940 scanservice.cpp:723] scanStatus=3 m_scanner==0
+I0705 15:51:02.548415 16940 scanservice.cpp:1166] isInternal ret=0
