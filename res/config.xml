@@ -519,7 +519,7 @@
 		<tex_show_type>0</tex_show_type>
 		<import_marker_point>0</import_marker_point>
 		<device_type_name>pro</device_type_name>
-		<color_camera>0</color_camera>
+		<color_camera>1</color_camera>
 		<save_type_p3>true</save_type_p3>
 		<log_remainday>3</log_remainday>
 		<sleep_time_>100</sleep_time_>
@@ -599,6 +599,7 @@
 		<use_save_mesh>false</use_save_mesh>
 		<mv_cam_vession>1</mv_cam_vession>
 		<r2_actived>false</r2_actived>
+		<enable_minus_plus_without_double_click>true</enable_minus_plus_without_double_click>
 	</common_para_config>
 	<stripe_cam_para_config>
 		<max_step>16</max_step>
